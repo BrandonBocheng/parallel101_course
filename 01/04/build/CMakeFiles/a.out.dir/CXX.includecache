@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hubocheng/Downloads/hbc/learning/parallel101_course/parallel101_course/01/04/hello.cpp
+cstdio
+-
+
+/home/hubocheng/Downloads/hbc/learning/parallel101_course/parallel101_course/01/04/main.cpp
+cstdio
+-
+
