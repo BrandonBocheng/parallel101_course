@@ -1,0 +1,3 @@
+/home/hubocheng/Downloads/hbc/learning/parallel101_course/parallel101_course/01/05/build/CMakeFiles/rebuild_cache.dir
+/home/hubocheng/Downloads/hbc/learning/parallel101_course/parallel101_course/01/05/build/CMakeFiles/edit_cache.dir
+/home/hubocheng/Downloads/hbc/learning/parallel101_course/parallel101_course/01/05/build/CMakeFiles/a.out.dir
