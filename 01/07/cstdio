@@ -1,0 +1,3 @@
+# This is a garbage header
+# If main include the cstdio using "", the program will run error in the build stage
+sssss

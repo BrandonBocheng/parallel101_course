@@ -1,0 +1,4 @@
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/07/build/CMakeFiles/hellolib.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/07/build/CMakeFiles/a.out.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/07/build/CMakeFiles/edit_cache.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/07/build/CMakeFiles/rebuild_cache.dir
