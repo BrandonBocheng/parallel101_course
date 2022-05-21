@@ -4,7 +4,7 @@
 
 int main() {
     MyClass mc;
-    mc.m_number = 42;
+    mc.m_number = 1013;
     hello(mc);
     return 0;
 }
