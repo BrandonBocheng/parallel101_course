@@ -1,0 +1,6 @@
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/CMakeFiles/a.out.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/CMakeFiles/hellolib.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/CMakeFiles/edit_cache.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/CMakeFiles/rebuild_cache.dir

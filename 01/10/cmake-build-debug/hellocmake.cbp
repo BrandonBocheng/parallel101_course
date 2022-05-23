@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="hellocmake"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\hellolib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out">
+				<Option output="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/a.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a.out/fast">
+				<Option output="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/a.out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 a.out/fast"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hellolib">
+				<Option output="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/libhellolib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 hellolib"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hellolib/fast">
+				<Option output="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/libhellolib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 hellolib/fast"/>
+					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/cmake-build-debug/hellolib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/hellolib/hello.cpp">
+			<Option target="hellolib"/>
+		</Unit>
+		<Unit filename="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/hellolib/hello.h">
+			<Option target="hellolib"/>
+		</Unit>
+		<Unit filename="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/main.cpp">
+			<Option target="a.out"/>
+		</Unit>
+		<Unit filename="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/10/hellolib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\hellolib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
