@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Library/Developer/CommandLineTools/usr/bin/make -DCMAKE_C_COMPILER=/Library/Developer/CommandLineTools/usr/bin/gcc -DCMAKE_CXX_COMPILER=/Library/Developer/CommandLineTools/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" -S /Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/12 -B /Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/12/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/12/cmake-build-debug

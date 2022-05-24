@@ -1,0 +1,3 @@
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/12/build/CMakeFiles/a.out.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/12/build/CMakeFiles/edit_cache.dir
+/Users/bochenghu/myCpp/parallel101_course/parallel101_course/01/12/build/CMakeFiles/rebuild_cache.dir
